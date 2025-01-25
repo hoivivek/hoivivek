@@ -39,6 +39,15 @@ Data Analyst | Data Engineering | Machine Learning
 -  Numpy, Pandas, Seaborn, Matplotlib, PySpark, Sci-kit learn, Pytorch, Tensorflow, Keras 
 
 ---
+
+---
+
+## Connect with Me
+
+- LinkedIn: [Vivek Reddy Karra](https://www.linkedin.com/in/vivekkarra2/)
+- Github: [https://github.com/hoivivek]
+
+---
 <!--
 **hoivivek/hoivivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
