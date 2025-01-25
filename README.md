@@ -6,7 +6,7 @@ Data Analyst | Data Engineering | Machine Learning
 
 ## Skills 
 
-### 💻 Programming & Scripting:
+### Programming & Scripting:
 - Python, C, SQL, R, Javascript
 
 ### Data Engineering:
