@@ -15,7 +15,7 @@ I'm actively seeking full-time opportunities in **Data Science, Data Engineering
 ### 🔧 Data Engineering  
 - ELT/ETL Pipelines  
 - Data Cleaning & Transformation  
-- Data Modeling & Warehousing (MySQL, MS SQL Server)  
+- Data Modeling & Warehousing  
 - Big Data Tools: Hadoop, Spark, Hive  
 
 ### 🤖 Machine Learning & Data Science  
@@ -24,8 +24,8 @@ I'm actively seeking full-time opportunities in **Data Science, Data Engineering
 - Neural Networks, Decision Trees, Ensemble Methods (Random Forests, Boosting)  
 
 ### ☁️ Cloud Platforms  
-- **AWS:** S3, EC2, DynamoDB, EMR  
-- **Azure:** Azure Data Services  
+- **AWS:** S3, EC2, DynamoDB, EMR, Lambda  
+- **Azure:** Azure Database, Azure AI, Azure Data Factory, Azure Synapse Analytics
 
 ### 🛢 Databases  
 - **Relational:** MySQL, MS SQL Server, PostgreSQL
