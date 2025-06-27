@@ -1,51 +1,58 @@
-## Hi I am Vivek Reddy Karra 👋
+# 👋 Hi, I'm Vivek Reddy Karra  
+### Data Analyst | Data Engineer | Machine Learning Enthusiast  
 
-Data Analyst | Data Engineering | Machine Learning
+I'm actively seeking full-time opportunities in **Data Science, Data Engineering, or Analytics** roles.  
 
----
-
-## Skills 
-
-### Programming & Scripting:
-- Python, C, SQL, R, Javascript
-
-### Data Engineering:
-- ELT/ETL Pipelines
-- Data Cleaning, Processing, and Transformation
-- Data Modeling & Warehousing (MySQL, MS SQL)
-- Hadoop, Spark, Hive
-
-### Machine Learning & Data Science:
-- Supervised Learning (Regression, Classification)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
-- Neural Networks, Decision Trees, and Ensemble Methods (Random Forests, Bagging, Boosting)
-
-### Cloud & Platforms:
-- AWS (S3, EC2, DynamoDB, EMR)
-- Microsoft Azure 
-
-### Databases:
-- Relational: MySQL, MS SQL Server
-- NoSQL: MongoDB
-
-### Data Visualization Tools:
-- Tableau, Power BI
-
-### Web Development and Frameworks
-- HTML, CSS, AngularJS, Bootstrap
-
-### Developer Tools & Libraries:
-- Git, GitHub, Anaconda, Jupyter, VS Code, R Studio
--  Numpy, Pandas, Seaborn, Matplotlib, PySpark, Sci-kit learn, Pytorch, Tensorflow, Keras 
+🎯 I’m a passionate and detail-oriented data professional with hands-on experience in building data pipelines, performing in-depth analysis, and deploying machine learning models. 
 
 ---
 
+## 🚀 Skills & Tools  
+
+### 👨‍💻 Programming & Scripting  
+**Languages:** Python, C, SQL, R, JavaScript  
+
+### 🔧 Data Engineering  
+- ELT/ETL Pipelines  
+- Data Cleaning & Transformation  
+- Data Modeling & Warehousing (MySQL, MS SQL Server)  
+- Big Data Tools: Hadoop, Spark, Hive  
+
+### 🤖 Machine Learning & Data Science  
+- Supervised Learning: Regression, Classification  
+- Unsupervised Learning: Clustering, Dimensionality Reduction  
+- Neural Networks, Decision Trees, Ensemble Methods (Random Forests, Boosting)  
+
+### ☁️ Cloud Platforms  
+- **AWS:** S3, EC2, DynamoDB, EMR  
+- **Azure:** Azure Data Services  
+
+### 🛢 Databases  
+- **Relational:** MySQL, MS SQL Server, PostgreSQL
+- **NoSQL:** MongoDB  
+
+### 📊 Data Visualization  
+- Tableau, Power BI  
+
+### 🌐 Web Development  
+- HTML, CSS, AngularJS, Bootstrap  
+
+### 🛠 Developer Tools  
+- Git, GitHub, Jupyter Notebook, VS Code, Anaconda, R Studio  
+
+### 🧪 Libraries & Frameworks  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Scikit-learn, PySpark  
+- TensorFlow, Keras, PyTorch  
+
 ---
 
-## Connect with Me
+## 📫 Let's Connect!  
+Feel free to connect with me on LinkedIn: [Vivek Reddy Karra](https://www.linkedin.com/in/vivekkarra2/) and check out my latest projects here on GitHub. 
 
-- LinkedIn: [Vivek Reddy Karra](https://www.linkedin.com/in/vivekkarra2/)
-- Github: [https://github.com/hoivivek]
+
+
+
 
 ---
 <!--
