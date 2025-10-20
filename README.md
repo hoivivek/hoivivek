@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Vivek Reddy Karra  
 ### Data Analyst | Data Engineer | Machine Learning & NLP
 
-I'm actively seeking full-time opportunities in **Data Science, Data Engineering, or Analytics** roles.  
-
 🎯 I’m a passionate and detail-oriented data professional with hands-on experience in building data pipelines, performing in-depth analysis, and deploying machine learning models. 
 
 ---
