@@ -29,7 +29,7 @@
 - Workflow Integration: Workato (CRM, ERP, ticketing systems)
 
 ### ☁️ Cloud Platforms
-- **AWS:** S3, EMR, DynamoDB, Lambda
+- **AWS:** S3, EMR, Redshift, DynamoDB, Lambda, Athena, Glue
 - **Azure:** PostgreSQL, Azure Functions, Azure DevOps, ARM Templates
 - **Snowflake**
 
