@@ -1,56 +1,57 @@
-# 👋 Hi, I'm Vivek Reddy Karra  
-### Data Analyst | Data Engineer | Machine Learning & NLP
+ # 👋 Hi, I'm Vivek Reddy Karra
 
-🎯 I’m a passionate and detail-oriented data professional with hands-on experience in building data pipelines, performing in-depth analysis, and deploying machine learning models. 
+### Data Scientist | Integration & Data Engineer | ML, NLP & Generative AI
+
+🎯 I'm an MS in Data Science graduate with hands-on experience building AI-enabled automation workflows, NLP/LLM pipelines, scalable ETL systems, and machine learning models — from cloud infrastructure to production-ready dashboards.
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Skills & Tools
 
-### 👨‍💻 Programming & Scripting  
-**Languages:** Python, C, SQL, R, JavaScript  
+### 👨‍💻 Programming & Scripting
+**Languages:** Python, R, SQL, Shell, HTML, CSS
 
-### 🔧 Data Engineering  
-- ELT/ETL Pipelines  
-- Data Cleaning & Transformation  
-- Data Modeling & Warehousing  
-- Big Data Tools: Hadoop, Spark, Hive  
+### 🤖 Machine Learning & Data Science
+- **Supervised Learning:** Regression, Classification, Ensemble Methods (Random Forests, Boosting)
+- **Unsupervised Learning:** Clustering, Dimensionality Reduction
+- **Deep Learning:** CNNs, Neural Networks — Scikit-learn, Keras, PyTorch
+- **NLP:** Text preprocessing, sentiment analysis, topic extraction — NLTK, SpaCy
 
-### 🤖 Machine Learning & Data Science  
-- Supervised Learning: Regression, Classification  
-- Unsupervised Learning: Clustering, Dimensionality Reduction  
-- Neural Networks, Decision Trees, Ensemble Methods (Random Forests, Boosting)  
+### 🧠 Generative AI & Prompt Engineering
+- Prompt design (zero-shot, few-shot), RAG workflows
+- Hugging Face Transformers, Snowflake Cortex
+- AI-enabled workflow automation via Workato (AI by Workato)
+- LLM pipelines with Azure Functions
 
-### ☁️ Cloud Platforms  
-- **AWS:** S3, EC2, DynamoDB, EMR, Lambda  
-- **Azure:** Azure Database, Azure AI, Azure Data Factory, Azure Synapse Analytics
+### 🔧 Data Engineering
+- ETL/ELT Pipelines, Data Modeling & Warehousing
+- Big Data: Hadoop, Spark (PySpark), Hive
+- Workflow Integration: Workato (CRM, ERP, ticketing systems)
 
-### 🛢 Databases  
-- **Relational:** MySQL, MS SQL Server, PostgreSQL
-- **NoSQL:** MongoDB  
+### ☁️ Cloud Platforms
+- **AWS:** S3, EMR, DynamoDB, Lambda
+- **Azure:** PostgreSQL, Azure Functions, Azure DevOps, ARM Templates
+- **Snowflake**
 
-### 📊 Data Visualization  
-- Tableau, Power BI  
+### 🛢 Databases
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** DynamoDB
 
-### 🌐 Web Development  
-- HTML, CSS, AngularJS, Bootstrap  
+### 📊 Data Visualization
+- Power BI, Tableau, Matplotlib, Seaborn
 
-### 🛠 Developer Tools  
-- Git, GitHub, Jupyter Notebook, VS Code, Anaconda, R Studio  
+### 🧪 Libraries & Frameworks
+- NumPy, Pandas, Scikit-learn, PySpark
+- Keras, PyTorch, Streamlit, NLTK
 
-### 🧪 Libraries & Frameworks  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Scikit-learn, PySpark  
-- TensorFlow, Keras, PyTorch  
+### 🛠 Developer Tools
+- Git, Jupyter Notebook, VS Code, Anaconda
 
 ---
 
 ## 📫 Let's Connect!  
 Feel free to connect with me on LinkedIn: [Vivek Reddy Karra](https://www.linkedin.com/in/vivekkarra2/) and check out my latest projects here on GitHub. 
-
-
-
-
+Email : **vkarra01@gmail.com**
 
 ---
 <!--
