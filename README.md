@@ -9,7 +9,7 @@
 ## 🚀 Skills & Tools
 
 ### 👨‍💻 Programming & Scripting
-**Languages:** Python, R, SQL, Shell, HTML, CSS
+- **Languages:** Python, R, SQL, Shell, HTML, CSS
 
 ### 🤖 Machine Learning & Data Science
 - **Supervised Learning:** Regression, Classification, Ensemble Methods (Random Forests, Boosting)
