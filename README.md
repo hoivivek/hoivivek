@@ -8,7 +8,7 @@
 
 ## 🚀 Skills & Tools
 
-### 🚀 Skills & Tools
+
  
 #### 👨‍💻 Programming & Query Languages
 Python, SQL, R, DAX
