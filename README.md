@@ -8,44 +8,44 @@
 
 ## 🚀 Skills & Tools
 
-### 👨‍💻 Programming & Scripting
-- **Languages:** Python, R, SQL, Shell, HTML, CSS
-
-### 🤖 Machine Learning & Data Science
-- **Supervised Learning:** Regression, Classification, Ensemble Methods (Random Forests, Boosting)
-- **Unsupervised Learning:** Clustering, Dimensionality Reduction
-- **Deep Learning:** CNNs, Neural Networks — Scikit-learn, Keras, PyTorch
-- **NLP:** Text preprocessing, sentiment analysis, topic extraction — NLTK, SpaCy
-
-### 🧠 Generative AI & Prompt Engineering
-- Prompt design (zero-shot, few-shot), RAG workflows
-- Hugging Face Transformers, Snowflake Cortex
-- AI-enabled workflow automation via Workato (AI by Workato)
-- LLM pipelines with Azure Functions
-
-### 🔧 Data Engineering
-- ETL/ELT Pipelines, Data Modeling & Warehousing
-- Big Data: Hadoop, Spark (PySpark), Hive
-- Workflow Integration: Workato (CRM, ERP, ticketing systems)
-
-### ☁️ Cloud Platforms
-- **AWS:** S3, EMR, Redshift, DynamoDB, Lambda, Athena, Glue
+### 🚀 Skills & Tools
+ 
+#### 👨‍💻 Programming & Query Languages
+Python, SQL, R, DAX
+ 
+#### 🤖 Machine Learning & Data Science
+- **Supervised/Unsupervised Learning:** Regression, Classification, Clustering, Ensemble Methods (XGBoost, AdaBoost)
+- **Deep Learning:** CNNs, Neural Networks — Scikit-learn, PyTorch
+- **NLP:** Text annotation, semantic tagging, sentiment analysis, theme extraction — Hugging Face, OpenAI
+- **Model Evaluation:** Accuracy, Precision, Recall, F1-score, Hypothesis Testing
+  
+#### 🧠 Generative AI & Automation
+- RAG workflows, LLM-powered pipelines
+- AI-enabled workflow automation via **Workato** and **n8n**
+- Claude & OpenAI API integration for natural-language chatbots and reasoning agents
+  
+#### 🔧 Data Modeling & ETL
+- ETL Pipelines, Data Modeling & Warehousing
+- Big Data: Apache Spark, Hive, Hadoop
+- Workflow Integration: Workato, n8n
+  
+#### ☁️ Cloud Platforms
+- **AWS:** S3, Lambda, EMR, DynamoDB
 - **Azure:** PostgreSQL, Azure Functions, Azure DevOps, ARM Templates
 - **Snowflake**
-
-### 🛢 Databases
-- **Relational:** MySQL, PostgreSQL
-- **NoSQL:** DynamoDB
-
-### 📊 Data Visualization
-- Power BI, Tableau, Matplotlib, Seaborn
-
-### 🧪 Libraries & Frameworks
-- NumPy, Pandas, Scikit-learn, PySpark
-- Keras, PyTorch, Streamlit, NLTK
-
-### 🛠 Developer Tools
-- Git, Jupyter Notebook, VS Code, Anaconda
+  
+#### 🛢 Databases
+Relational: MySQL, PostgreSQL, Snowflake | NoSQL: DynamoDB
+ 
+#### 📊 Data Analysis & Visualization
+Power BI, Tableau, Matplotlib, Seaborn, Plotly, Streamlit, MS Excel
+KPI Metrics, Trend Analysis, Pattern Recognition
+ 
+#### 🧪 Libraries & Frameworks
+NumPy, Pandas, Scikit-learn, PyTorch, Hugging Face
+ 
+#### 🛠 Developer Tools
+Git, Jupyter Notebook, REST APIs, Workato, n8n
 
 ---
 
